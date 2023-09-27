@@ -18,6 +18,7 @@
 		C74BB2FE2ABA602500E5F50A /* HackwichFour_9_19_23UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C74BB2FD2ABA602500E5F50A /* HackwichFour_9_19_23UITestsLaunchTests.swift */; };
 		C74BB30B2ABA65E100E5F50A /* ViewController01.swift in Sources */ = {isa = PBXBuildFile; fileRef = C74BB30A2ABA65E100E5F50A /* ViewController01.swift */; };
 		C74BB30D2ABA661E00E5F50A /* ViewController02.swift in Sources */ = {isa = PBXBuildFile; fileRef = C74BB30C2ABA661E00E5F50A /* ViewController02.swift */; };
+		C7EDFF952AC435840097C9B2 /* ViewController03.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7EDFF942AC435840097C9B2 /* ViewController03.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		C74BB2FD2ABA602500E5F50A /* HackwichFour_9_19_23UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackwichFour_9_19_23UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		C74BB30A2ABA65E100E5F50A /* ViewController01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController01.swift; sourceTree = "<group>"; };
 		C74BB30C2ABA661E00E5F50A /* ViewController02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController02.swift; sourceTree = "<group>"; };
+		C7EDFF942AC435840097C9B2 /* ViewController03.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController03.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				C74BB2DC2ABA602300E5F50A /* SceneDelegate.swift */,
 				C74BB2DE2ABA602300E5F50A /* ViewController.swift */,
 				C74BB2E02ABA602300E5F50A /* Main.storyboard */,
+				C7EDFF942AC435840097C9B2 /* ViewController03.swift */,
 				C74BB30C2ABA661E00E5F50A /* ViewController02.swift */,
 				C74BB30A2ABA65E100E5F50A /* ViewController01.swift */,
 				C74BB2E32ABA602500E5F50A /* Assets.xcassets */,
@@ -269,6 +272,7 @@
 				C74BB2DB2ABA602300E5F50A /* AppDelegate.swift in Sources */,
 				C74BB2DD2ABA602300E5F50A /* SceneDelegate.swift in Sources */,
 				C74BB30D2ABA661E00E5F50A /* ViewController02.swift in Sources */,
+				C7EDFF952AC435840097C9B2 /* ViewController03.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
